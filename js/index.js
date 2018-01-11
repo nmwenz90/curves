@@ -4,7 +4,7 @@ var curve2 = 200;
 var curve3 = 150;
 //var loopy = [40, 200, 150];
 function preload() {
-  myFont = loadFont('fonts/LaBelleAurore_e9nj72.ttf');
+  myFont = loadFont('https://res.cloudinary.com/dvwvkt7iq/raw/upload/v1515555978/LaBelleAurore_e9nj72.ttf');
 }
 
 
